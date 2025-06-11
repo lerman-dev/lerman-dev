@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lerman (real name: Влад)
+- 👋 Hi, I’m Lerman (real name: Vlad)
 - 👀 I’m interested in LuaU, Python (telegram bots) and Batch
 - 🌱 I’m learning LuaU
 - 📫 How to reach me: Telegram @lermandev
