@@ -4,7 +4,7 @@
 - 📫 How to reach me: Telegram @lermandev
 - 😄 Pronouns: he, his 
 - ⚡ Random fact: I'm live in Omsk city
-- ⚡ Random fact 2: I'm use ENDEAVOUROS btw
+- ⚡ Random fact 2: I'm use EndeavourOS btw
 - 👽 ![Dancing Alienchik](https://docs.sunc.su/assets/dancing-alienchik.webp)
 
 
