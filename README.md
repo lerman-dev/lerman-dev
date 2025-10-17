@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lerman (real name: Vlad)
 - 👀 I’m interested in HTML, JS, TailwindCSS
-- 🌱 I’m learning Python
+- 🌱 I’m learning Kotlin
 - 📫 How to reach me: Telegram @lermandev
 - 😄 Pronouns: he, his 
 - ⚡ Random fact: I'm live in Omsk city
