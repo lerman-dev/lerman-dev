@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lerman (real name: Vlad)
-- 👀 I’m interested in HTML, JS, TailwindCSS
+- 👀 I’m interested in Kotlin
 - 🌱 I’m learning Kotlin
 - 📫 How to reach me: Telegram @lermandev, email vladprot20@gmail.com
 - 😄 Pronouns: he, his 
