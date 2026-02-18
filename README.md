@@ -1,5 +1,9 @@
+**Satya Nadella, FUCK YOU!**
 
-- 👽 ![Dancing Alienchik](https://docs.sunc.su/assets/dancing-alienchik.webp)
+![fastfetch]()
+
+
+![Dancing Alienchik](https://docs.sunc.su/assets/dancing-alienchik.webp)
 
 
 <!---
