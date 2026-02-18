@@ -8,6 +8,7 @@
 
 ![Random ASCII](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=64DE3F&center=true&vCenter=true&width=435&lines=Она+со+мной,+углепластик,;так+охладите+трахание...;То+дерьмо+сосёт..;ЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕ..)
 
+---
 
 **Satya Nadella, FUCK YOU!**
 
