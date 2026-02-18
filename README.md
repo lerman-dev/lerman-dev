@@ -1,6 +1,6 @@
 **Satya Nadella, FUCK YOU!**
 
-![fastfetch]()
+![fastfetch](IMG_20260212_122536_908.jpg)
 
 
 ![Dancing Alienchik](https://docs.sunc.su/assets/dancing-alienchik.webp)
