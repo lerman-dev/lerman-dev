@@ -2,7 +2,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lerman-dev.lerman-dev)
 
-![Skills](https://skillicons.dev/icons?i=lua,git,linux,vercel,neovim,markdown)
+![Skills](https://skillicons.dev/icons?i=lua,robloxstudio,git,debian,arch,linux,vercel,neovim,markdown)
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=lermandev&count=1)
 
