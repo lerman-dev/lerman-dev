@@ -13,7 +13,8 @@
 
 ---
 
-![some kind of cool hyprland maybe](fastfetch.jpg)
+<img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/3be69d48-135b-45f5-975f-210c2830ed76" />
+
 
 <!---
 lerman-dev/lerman-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
