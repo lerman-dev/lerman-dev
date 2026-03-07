@@ -13,7 +13,7 @@
 
 ---
 
-![fastfetch](IMG_20260212_122536_908.jpg)
+![some kind of cool hyprland maybe](fastfetch.jpg)
 
 <!---
 lerman-dev/lerman-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
