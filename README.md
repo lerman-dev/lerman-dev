@@ -6,10 +6,18 @@
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=lermandev&count=1)
 
+I love Rammstein!
+and USSR songs maybe too..
+
+---
+# **MY PROJECTS**
+* TuxMusic (currenty proprietary, tuxmusic.vercel.app, you can make you own client, tuxmusic.vercel.app/api)
+* Weldify (maybe abandoned and forgotten)
+---
 
 ---
 
-**MICROSLOP, YOU'RE STUPID!**
+# **MICROSLOP, YOU'RE STUPID!**
 
 ---
 
