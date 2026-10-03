@@ -1,1 +1,1 @@
-# MOVED TO https://git.disroot.org/lerman
+# MOVED TO https://codeberg.org/lerman-dev
